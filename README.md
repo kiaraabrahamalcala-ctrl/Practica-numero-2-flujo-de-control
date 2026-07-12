@@ -14,13 +14,13 @@ exento (RD$416,220), el programa muestra "0 (N/A)".
 Capturas de ejecución
 
 Escenario 1: Sueldo exento (no aplica ISR) — RD$35,600
-![Escenario 1](Practica_logica_programacion_foto_1.jpeg)
+(Practica_logica_programacion_foto_1.jpeg)
 
 Escenario 2: Tramo 15% — RD$40,500
-![Escenario 2](Practica_logica_programacion_foto_3.jpeg)
+(Practica_logica_programacion_foto_3.jpeg)
 
 Escenario 3: Tramo 20% — RD$62,000
-![Escenario 3](Practica_logica_programacion_foto_4.jpeg)
+(Practica_logica_programacion_foto_4.jpeg)
 
 Escenario 4: Tramo 25% — RD$500,000
-![Escenario 4](Practica_logica_programacion_foto_2.jpeg)
+(Practica_logica_programacion_foto_2.jpeg)
